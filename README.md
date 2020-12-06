@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 - 🔭 I’m a systems biology PhD student in the Department of Engineering at the University of Cambridge.
 - I like programming in Python. I started learning it in 2019 during my MPhil in Biotechnology. 
